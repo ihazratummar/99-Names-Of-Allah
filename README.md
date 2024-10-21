@@ -43,3 +43,5 @@ ENG: https://simple.wikipedia.org/wiki/Names_of_God_in_Islam
 ENG: https://99namesofallah.name/
 
 ENG: https://ahadith.co.uk/99namesofAllah.php
+
+BEN: https://m.somewhereinblog.net/mobile/blog/NatunNakib/30256147
